@@ -207,3 +207,44 @@
     flex-direction: column;
     gap: 1rem;
 }
+
+@media (max-width:900px)
+{
+    .appbar
+    {
+        flex-direction: column;
+        gap: 1rem;
+    }
+
+    .searchbox
+    {
+        display: flex;
+        flex-direction: row;
+        gap: 1rem;
+        width: 100%;
+    }
+
+    .filterbtns
+    {
+        align-items: right;
+    }
+
+    .appbar .btn
+    {
+        order: 2;
+    }
+
+    .searchbox i
+    {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .content
+    {
+        padding-top: 1rem;
+        grid-template-columns: repeat(auto-fit, minmax(100%, 1fr));
+    }
+}
