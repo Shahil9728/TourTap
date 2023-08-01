@@ -1,9 +1,7 @@
 import React, { useState, useEffect, useRef } from 'react';
 import './App.css';
-import DatePicker from "react-datepicker";
 import "react-datepicker/dist/react-datepicker.css";
 import Box from '@mui/material/Box';
-import Stack from '@mui/material/Stack';
 import Slider from '@mui/material/Slider';
 import { styled } from '@mui/material/styles';
 import L from 'leaflet';
