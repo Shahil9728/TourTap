@@ -1,70 +1,80 @@
-# Getting Started with Create React App
+<!-- Improved compatibility of back to top link: See: https://github.com/Shahil9728/TourTap/ -->
+<a name="readme-top"></a>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/Shahil9728/TourTap">
+    <img src="https://github.com/Shahil9728/TourTap/assets/96991517/0581cf9d-93b7-417b-9fce-815d5e9b25b6" alt="Logo" width="80" height="80">
+  </a>
 
-In the project directory, you can run:
+  <h3 align="center"><a href="https://tourtap.netlify.app/" target="_blank">TourTap</a></h3>
+  <p align="center">
+    <br />
+    <br />
+    <a href="https://github.com/Shahil9728/TourTap/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/Shahil9728/TourTap/issues">Request Feature</a>
+  </p>
+</div>
 
-### `npm start`
+### TutoTube
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Project Link: [https://tourtap.netlify.app/](https://tourtap.netlify.app/)
+Must visit it for better view !🥰 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Introduction
 
-### `npm test`
+Welcome to TourTap! Discover the world's best hotels, restaurants, and attractions nearby or across the globe with ease. Our user-friendly website, powered by the Leaflet API and Travel Advisor API, lets you explore and filter places based on your preferences, such as open/closed status. Whether you're a globetrotter planning your next adventure or a local looking for the hottest spots in town, TourTap is your go-to platform for finding the perfect destination. Get ready to embark on unforgettable journeys with our comprehensive and interactive map, bringing the world's finest locations right to your fingertips. Start exploring now!
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Installation
 
-### `npm run build`
+## Step 1
+Clone the Github Repository
+```shell
+git clone https://github.com/Shahil9728/TourTap
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Step 2
+And write start the local server
+```shell
+npm run start
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<!-- IMAGES -->
+### WEBSITe SCREENSHOTS
 
-### `npm run eject`
+![Alt image](https://github.com/Shahil9728/TourTap/assets/96991517/e3c2f87a-4b59-4432-884d-df9d8151acc4)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<br/>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![Alt image](https://github.com/Shahil9728/TourTap/assets/96991517/fc08f938-5b6b-48bf-a392-b2e59d9ae045)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<br/>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+![Alt image](https://github.com/Shahil9728/TourTap/assets/96991517/69deeb7c-a91e-4fbd-b0aa-2cdd4b9039c8)
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Built With
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+This section lists about the languages used in this project .
 
-### Code Splitting
+* ![REACT JS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+* ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+* ![CSS](https://img.shields.io/badge/css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+<br>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Making a Progressive Web App
+<!-- CONTACT -->
+## Contact
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Your Name - [@Shahil9728](https://twitter.com/ShahilV27515989) - shahilverma91383@gmail.com
 
-### Advanced Configuration
+Project Link: [https://tourtap.netlify.app//](https://tourtap.netlify.app//)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
